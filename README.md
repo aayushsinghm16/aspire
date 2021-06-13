@@ -16,4 +16,4 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-Project urls are /test for loan and /user for ui
+Project urls are [project](https://sleepy-nobel-278158.netlify.app) for base and  [/test](https://sleepy-nobel-278158.netlify.app/test) for loan and [/user](https://sleepy-nobel-278158.netlify.app/user) for ui
